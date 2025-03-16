@@ -1,4 +1,4 @@
-# Menace Tic-Tac-Toe (2021)
+# Menace Tic-Tac-Toe (2022)
 
 L'objectif de ce programme est de créer une IA pour jouer au morpion basée sur le système MENACE (cf. sources)
 
